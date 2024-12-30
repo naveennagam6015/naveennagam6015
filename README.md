@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Naveen Nagam
 
 🚀 **About Me**  
-I am a dedicated **Web and Mobile Application Developer** with experience in building modern, responsive, and user-centric applications. Currently, I work as a **Software Developer at Glansa Solutions**, specializing in React.js and React Native to deliver high-quality solutions that meet user needs and business objectives.
+I am a dedicated **Web and Mobile Application Developer** with experience in building modern, responsive, and user-centric applications. Currently, I work as a **Software Developer at [Glansa Solutions](https://glansa.com/)**, specializing in React.js and React Native to deliver high-quality solutions that meet user needs and business objectives.
 
  🌱 Continuous Learning  
 I am currently expanding my knowledge in:  
