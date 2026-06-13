@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naveennagam6015/naveennagam6015/main/git_image_naveen.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/naveennagam6015/naveennagam6015/main/my_image.jpeg
+" alt="Banner" width="100%">
 </p>
 
 # Hi there 👋
