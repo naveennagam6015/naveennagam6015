@@ -6,14 +6,14 @@
 
 Welcome to my profile 😊
 
-- 🔭 I'm currently working on **React Native & React JS**
-- 🌱 I'm currently learning **Node.js, Express.js & MongoDB**
-- 💬 Ask me about **React Native, React JS, JavaScript**
-- 👯 Looking to collaborate on **React Native projects**
-- 📫 Reach me at: **naveennagam6015@gmail.com**
-- ⚡ Fun fact: **I love bike rides and exploring new places 🏍️**
+- I'm currently working on **React Native & React JS**
+- I'm currently learning **Node.js, Express.js & MongoDB**
+- Ask me about **React Native, React JS, JavaScript**
+- Looking to collaborate on **React Native projects**
+- Reach me at: **naveennagam6015@gmail.com**
+- Fun fact: **I love bike rides and exploring new places**
 
-## Technology Stack 💻
+## Technology Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,redux,firebase,html,css,tailwind,bootstrap,git,github,postman,vscode,figma" />
