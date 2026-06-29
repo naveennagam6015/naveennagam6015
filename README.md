@@ -94,35 +94,152 @@
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
-### 🚗 My Car Buddy
-Vehicle service application with modern UI and booking flow.
+<table>
+<tr>
+<td width="50%">
 
-### 💳 Users Pay
-Digital payment application built using React Native.
+### 🚗 MyCarBuddy – Technician App
+
+📱 React Native (Expo)
+
+- 🚘 Live Technician Tracking
+- 📍 Google Maps Integration
+- 🔔 Firebase Push Notifications
+- 📅 Booking Management
+- ♻️ Reusable Components
+- ⚡ Performance Optimized
+
+🔗 https://play.google.com/store/apps/details?id=com.itglansa.mcbt&hl=en_IN
+
+</td>
+
+<td width="50%">
+
+### 🧠 Strengths Compass
+
+🌐 React.js + Tailwind CSS
+
+- 📊 Psychometric Assessment
+- 📝 Dynamic Question Flow
+- 📄 PDF Report Generation
+- 📧 Email Notifications
+- 👨‍💼 Admin Dashboard
+
+🔗 https://strengthscompass.axiscompass.in
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎓 MeeCampus
+
+🌐 React.js
+
+- 🎯 College Recommendation
+- 🔍 Smart Search & Filters
+- 📈 Google Analytics
+- ⚡ REST API Integration
+
+🔗 https://meecampus.com
+
+</td>
+
+<td>
 
 ### 👨‍👩‍👧 Kid Connect
-Mobile application developed using React Native.
 
-### 🌱 Pragathi App
-Business management application.
+📱 React Native
+
+- 👨‍👩‍👧 Parent Community
+- 📅 Event Scheduling
+- 🔐 Firebase Authentication
+- 💬 Secure Messaging
+
+🔗 https://github.com/krishnahoccane/kidsconnect
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🔋 Battery Inventory Management
+
+🌐 React.js + Laravel
+
+- 🔐 Firebase OTP
+- 📊 Dealer/Admin Dashboard
+- 📦 Inventory Management
+- 📤 Excel Export
+
+🔗 https://github.com/naveennagam6015/Battery-Project
+
+</td>
+
+<td>
+
+### 🚀 Professional Highlights
+
+✅ 3+ Years Experience
+
+✅ 5+ Production Applications
+
+✅ 15+ REST API Integrations
+
+✅ React Native & React JS
+
+✅ Redux • Context API
+
+✅ Node.js • Express.js • MongoDB
+
+</td>
+
+</tr>
+</table>
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveennagam6015&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 📌 Current Focus
+
+```javascript
+const naveen = {
+  role: "Software Developer",
+  experience: "3+ Years",
+  frontend: ["React.js", "JavaScript", "Redux", "Tailwind CSS"],
+  mobile: ["React Native", "Expo", "Firebase"],
+  backend: ["Node.js", "Express.js", "MongoDB"],
+  tools: ["Git", "GitHub", "Postman", "VS Code", "Figma"],
+  currentlyLearning: ["Advanced MERN", "System Design", "AI Integration"],
+  lookingFor: "React Native / React JS Opportunities"
+};
+
 # 📬 Connect With Me
 
-📧 **Email**
+**Email**
 
 **naveennagam6015@gmail.com**
 
-🔗 **LinkedIn**
+**LinkedIn**
 
 https://www.linkedin.com/in/naveen-nagam-a36050217/
 
-💻 **GitHub**
-
-https://github.com/naveennagam6015
 
 ---
 
