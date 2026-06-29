@@ -216,19 +216,6 @@
 
 ---
 
-# 📌 Current Focus
-
-```javascript
-const naveen = {
-  role: "Software Developer",
-  experience: "3+ Years",
-  frontend: ["React.js", "JavaScript", "Redux", "Tailwind CSS"],
-  mobile: ["React Native", "Expo", "Firebase"],
-  backend: ["Node.js", "Express.js", "MongoDB"],
-  tools: ["Git", "GitHub", "Postman", "VS Code", "Figma"],
-  currentlyLearning: ["Advanced MERN", "System Design", "AI Integration"],
-  lookingFor: "React Native / React JS Opportunities"
-};
 
 # 📬 Connect With Me
 
